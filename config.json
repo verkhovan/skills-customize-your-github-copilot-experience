@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "interactive-web-pages",
+      "title": "Interactive Web Pages",
+      "description": "Build an interactive to-do list using HTML, CSS, and JavaScript DOM manipulation",
+      "path": "assignments/interactive-web-pages",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
