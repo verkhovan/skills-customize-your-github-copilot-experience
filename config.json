@@ -86,6 +86,34 @@
           "type": "html"
         }
       ]
+    },
+    {
+      "id": "multithreading-in-python",
+      "title": "Multithreading in Python",
+      "description": "Run concurrent tasks using Python threads, locks, and thread pools",
+      "path": "assignments/multithreading-in-python",
+      "dueDate": "2026-05-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "advanced-multithreading-in-python",
+      "title": "Advanced Multithreading in Python",
+      "description": "Advanced producer-consumer patterns, shared-state safety, and graceful thread shutdown",
+      "path": "assignments/advanced-multithreading-in-python",
+      "dueDate": "2026-05-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
